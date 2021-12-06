@@ -15,7 +15,7 @@ Download and copy this repository to `/site/plugins/kirby3-a11yprompter`
 Or use Composer:
 
 ```bash
-composer require sgkirby/commentions
+composer require sgkirby/a11yprompter
 ```
 
 Or install as Git submodule
